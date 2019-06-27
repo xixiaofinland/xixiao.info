@@ -24,6 +24,11 @@ a{
     text-decoration: none;
 }
 /* section 1 */
+
+.section-1 img{
+  border-radius: 50%;
+}
+
 .section-1{
     padding-top: 40vh;
     padding-left: 20vw;
@@ -86,10 +91,6 @@ a{
 .white:hover{
     position: relative;
     padding-left: 10px;
-}
-
-img {
-  border-radius: 50%;
 }
 
 /* media queres */
