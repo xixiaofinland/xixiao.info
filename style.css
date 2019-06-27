@@ -88,6 +88,10 @@ a{
     padding-left: 10px;
 }
 
+img {
+  border-radius: 50%;
+}
+
 /* media queres */
 @media(max-width:780px){
     .grid-2{
